@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @The-Dev-Sehaj
-- 👀 I’m interested in Data Science
-- 💞️ I’m looking to collaborate on Data Science Projects
+- 👀 I’m interested in AI/ML and data science
+- 💞️ I’m looking to collaborate on Fullstack Projects
 - 📫 How to reach me sehajsethi101@gmail.com
 
 <!---
