@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @The-Dev-Sehaj<br>👀 I’m interested in AI/ML and data science<br>💞️ I’m looking to collaborate on Fullstack Projects<br>📫 How to reach me sehajsethi101@gmail.com
+👋 Hi, I’m @The-Dev-Sehaj<br>👀 I’m interested in AI/ML/Computer Vision and Data Science<br>💞️ I’m looking to collaborate on Projects<br>📫 How to reach me sehajsethi101@gmail.com
 
 
 ## 🌐 Socials:
